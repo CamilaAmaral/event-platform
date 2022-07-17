@@ -20,3 +20,9 @@ https://tailwindcss.com/docs/customizing-colors
 > Lib para datas: 
 - npm i date-fns
 - https://date-fns.org/v2.28.0/docs/format
+
+> Lib para roteamento (links)
+- npm i react-router-dom
+
+> Lib para vídeo
+- https://vimejs.com/getting-started/installation#react
