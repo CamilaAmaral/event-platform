@@ -1,11 +1,23 @@
 # event-platform
 
+Aplicação web com vite, typescript, react, graphql, graphCMS.
+
+> create script: npm create vite@latest
+
 > script-install: npm install
 
 > script-run: npm run dev
 
 > Protótipo: 
 https://www.figma.com/file/5ssiGlXmMDsCBiw4R9UOS5/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=0%3A1
+
+> Ferramentas para graphql:
+npm i 
+-@graphql-codegen/typescript 
+-@graphql-codegen/typescript-operations 
+-@graphql-codegen/typescript-react-apollo -D
+
+-npm i @graphql-codegen/cli -D
 
 > Criar um componente a partir de um svg: 
 https://svg2jsx.com/
